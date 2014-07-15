@@ -24,3 +24,5 @@ nicewords, smiley
 
 
 bys foreign: sum weight
+
+vers 12: set seed 4356872
