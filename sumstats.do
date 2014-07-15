@@ -21,3 +21,6 @@ bys foreign: summarize price
 
 nicewords
 nicewords, smiley
+
+
+bys foreign: sum weight
