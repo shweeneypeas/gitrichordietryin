@@ -20,3 +20,4 @@ assert inlist(foreign, 0, 1)
 bys foreign: summarize price
 
 nicewords
+nicewords, smiley
